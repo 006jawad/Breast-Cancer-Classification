@@ -6,6 +6,7 @@ to other single ML models. In the end, we have developed this toy web applicatio
 <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/ogyGjenGju0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  -->
 
-[![Web Application for the Breast Cancer Prediction](https://img.youtube.com/vi/abcdefg/0.jpg)]([https://www.youtube.com/watch?v=abcdefg](https://www.youtube.com/embed/ogyGjenGju0))
+<!-- [![Web Application for the Breast Cancer Prediction](https://img.youtube.com/vi/abcdefg/0.jpg)]([https://www.youtube.com/watch?v=abcdefg](https://www.youtube.com/embed/ogyGjenGju0)) -->
 
 
+[![Web Application for the Breast Cancer Prediction]()]([https://www.youtube.com/watch?v=abcdefg](https://www.youtube.com/embed/ogyGjenGju0))
