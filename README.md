@@ -4,9 +4,10 @@ This miniaturized web application is an implementation of our paper [Breast Canc
 to other single ML models. In the end, we have developed this toy web application for Breast Cancer detection, deploying our trained weights. In the future, we will investigate the computational complexity of our proposed framework in real-time Breast Cancer applications. The interface of the current application design will be improved, considering more clinical settings.
 
 
-[![Web Application for the Breast Cancer Prediction]
-(https://img.youtube.com/vi/ogyGjenGju0/maxresdefault.jpg)]
-(https://www.youtube.com/watch?v=ogyGjenGju0)
+[![Web Application for the Breast Cancer Prediction](https://img.youtube.com/vi/ogyGjenGju0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ogyGjenGju0)
+
+
+
 
 <!-- [![Web Application for the Breast Cancer Prediction](https://img.youtube.com/vi/abcdefg/0.jpg)]([https://www.youtube.com/watch?v=abcdefg](https://www.youtube.com/embed/ogyGjenGju0)) -->
 
